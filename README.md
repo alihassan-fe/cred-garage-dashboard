@@ -9,7 +9,7 @@ A modern, responsive dashboard inspired by CRED Garage, built with Next.js and f
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Demo](https://your-deployment-url.vercel.app)**
+🔗 **[View Live Demo](https://cred-garage-dashboard-psi.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
@@ -96,33 +96,6 @@ npm run dev
 
 ### 4. Open in Browser
 Navigate to [http://localhost:3000](http://localhost:3000)
-
-## 🏗️ Project Structure
-
-\`\`\`
-cred-garage-dashboard/
-├── app/
-│   ├── globals.css          # Global styles and Tailwind imports
-│   ├── layout.jsx           # Root layout with providers
-│   └── page.jsx             # Main dashboard page
-├── components/
-│   ├── ui/                  # ShadCN UI components
-│   ├── avatar-selector.jsx  # Avatar selection modal
-│   ├── benefits-section.jsx # Benefits cards grid
-│   ├── dashboard.jsx        # Main dashboard layout
-│   ├── loading-skeleton.jsx # Loading state components
-│   ├── reward-progress.jsx  # Charts and progress tracking
-│   ├── theme-toggle.jsx     # Dark/light mode toggle
-│   └── user-profile.jsx     # User profile card
-├── contexts/
-│   ├── app-context.jsx      # Global app state management
-│   └── theme-context.jsx    # Theme management context
-├── public/
-│   ├── avatar.png           # Default user avatar
-│   ├── avatar-2.png         # Alternative avatar option
-│   └── avatar-3.png         # Alternative avatar option
-└── README.md
-\`\`\`
 
 ## 🎯 Key Components
 
