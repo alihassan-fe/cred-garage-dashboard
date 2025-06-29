@@ -11,17 +11,6 @@ A modern, responsive dashboard inspired by CRED Garage, built with Next.js and f
 
 🔗 **[View Live Demo](https://your-deployment-url.vercel.app)**
 
-## 📸 Screenshots
-
-### Light Mode Dashboard
-![Light Mode Dashboard](./screenshots/dashboard-light.png)
-
-### Dark Mode Dashboard
-![Dark Mode Dashboard](./screenshots/dashboard-dark.png)
-
-### Mobile Responsive View
-![Mobile View](./screenshots/mobile-view.png)
-
 ## 🛠️ Tech Stack
 
 ### Frontend Framework
@@ -93,23 +82,17 @@ A modern, responsive dashboard inspired by CRED Garage, built with Next.js and f
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone https://github.com/yourusername/cred-garage-dashboard.git
+git clone https://github.com/alihassan-fe/cred-garage-dashboard
 cd cred-garage-dashboard
 \`\`\`
 
 ### 2. Install Dependencies
 \`\`\`bash
 npm install
-# or
-yarn install
-\`\`\`
 
 ### 3. Run Development Server
 \`\`\`bash
 npm run dev
-# or
-yarn dev
-\`\`\`
 
 ### 4. Open in Browser
 Navigate to [http://localhost:3000](http://localhost:3000)
@@ -221,9 +204,6 @@ npm start
 ### Run Tests
 \`\`\`bash
 npm test
-# or
-yarn test
-\`\`\`
 
 ### Component Testing
 - Unit tests for individual components
@@ -238,18 +218,6 @@ yarn test
 - **Caching** - Static asset caching
 - **Bundle Analysis** - Webpack bundle analyzer
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (\`git checkout -b feature/amazing-feature\`)
-3. Commit changes (\`git commit -m 'Add amazing feature'\`)
-4. Push to branch (\`git push origin feature/amazing-feature\`)
-5. Open Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **CRED** - Design inspiration
@@ -257,18 +225,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** - Deployment platform
 - **Tailwind Labs** - CSS framework
 
-## 📞 Support
-
-For support and questions:
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/cred-garage-dashboard/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/cred-garage-dashboard/discussions)
-
----
-
-**Built with ❤️ by [Your Name]**
-
-⭐ Star this repository if you found it helpful!
-\`\`\`
-
-Let's also create a package.json file to ensure all dependencies are properly documented:
+**Built with ❤️ by [Ali Hassan]**
