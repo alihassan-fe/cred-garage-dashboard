@@ -59,9 +59,9 @@ export function AvatarSelector({ currentAvatar, onAvatarChange }) {
                   <Image
                     src={avatar.src || "/placeholder.svg"}
                     alt={avatar.name}
-                    width={60}
-                    height={60}
-                    className="rounded-full object-cover"
+                    width={80}
+                    height={80}
+                    className="rounded-full object-cover w-20 h-20"
                   />
                   <span className="text-xs font-medium">{avatar.name}</span>
                 </div>
